@@ -15,3 +15,5 @@ Priklad vstupu:
 Pro usnadneni je mozne zapsat sudoku do souboru a nasledne ho poslat jako vstup do programu pomoci
 
 $ ./sudoku < sudoku.src
+
+![sudoku](https://github.com/matarth/sudoku/blob/master/sud1.jpg?raw=true)
