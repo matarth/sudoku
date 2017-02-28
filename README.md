@@ -2,15 +2,15 @@ Program slouzi k reseni sudoku. Vstupem programu je sada 9 radku vyplnenych cisl
 
 Priklad vstupu:
 
-..612....
-....78.2.
-4.35.9..7
-.35.8...2
-..9.3.1..
-7...5.63.
-1..2.53.8
-.5.84....
-....172..
+..612....<br>
+....78.2.<br>
+4.35.9..7<br>
+.35.8...2<br>
+..9.3.1..<br>
+7...5.63.<br>
+1..2.53.8<br>
+.5.84....<br>
+....172..<br>
 
 Pro usnadneni je mozne zapsat sudoku do souboru a nasledne ho poslat jako vstup do programu pomoci
 
